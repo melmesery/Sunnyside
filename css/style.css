@@ -1,0 +1,31 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    letter-spacing: 1.5px;
+}
+
+header {
+    min-height: 100vh;
+    background-image: url(../images/desktop/image-header.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.left {
+    min-height: 85vh;
+    background: url(../images/desktop/image-graphic-design.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 400px;
+}
+
+.right {
+    min-height: 85vh;
+    background: url(../images/desktop/image-photography.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 400px;
+}
+
+.testimonials {
+    min-height: 100vh;
+}
